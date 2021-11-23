@@ -1,4 +1,4 @@
-# App Wine Harmonização de vinhos 🚧
+# 🚧 App Wine Harmonização de vinhos 
 
 
 > Este repositório tem o intuito de armazenar os código, do app de trabalho de conclusão de curso
