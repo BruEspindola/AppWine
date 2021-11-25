@@ -3,9 +3,11 @@ import { View, StyleSheet, Image } from 'react-native';
 import { Button } from 'react-native-elements';
 import Swiper from 'react-native-swiper'
 import { StatusBar } from 'react-native';
+import { useNavigation } from '@react-navigation/native';
 
 
 export default function App() {
+    const navigation = useNavigation();
     const scrollRef = useRef();
 
     return (
@@ -55,6 +57,7 @@ export default function App() {
                         buttonStyle={[styles.button, { width: 200, marginLeft: '35%' }]}
                         title={'Get Start'}
                         titleStyle={{ color: '#E23E6D' }}
+                        onPress={() => navigation.navigate('Login')}
                     />
                 </View>
 
