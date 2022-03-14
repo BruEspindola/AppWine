@@ -37,9 +37,8 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ## Features
 TO DO     | IN PROGRESS | DONE
 --------- | ------      |--------
-esqueci Senha|Cadastro  |✔️Login 
-Catalogo  |             |✔️ Onboarding
-Listagem  |             |
+esqueci Senha|Catalogo  |✔️ Login 
+Minha conta  |          |✔️ Onboarding
+Listagem  |             |✔️ Cadastro
 Detalhes  |             |
 Favoritos |             |
-Minha conta|             |
